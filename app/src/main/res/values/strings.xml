@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Search for cheap flights</string>
+
+    <string name="bottom_nav_airline_tickets">Авиабилеты</string>
+    <string name="bottom_nav_hotels">Отели</string>
+    <string name="bottom_shortcut">Короче</string>
+    <string name="bottom_nav_subscriptions">Подписки</string>
+    <string name="bottom_nav_profile">Профиль</string>
+</resources>
